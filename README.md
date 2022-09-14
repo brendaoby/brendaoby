@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brendaoby
 - 👀 I’m interested in software engineering and machine learning
-- 🌱 I’m currently learning HTML/CSS, Shell Navigation and Scripting, C Programming
+- 🌱 I’m currently learning HTML/CSS, C Programming, Python
 - 💞️ I’m looking to collaborate on impactful projects
 - 📫 How to reach me brendaekemezie@gmail.com
 
