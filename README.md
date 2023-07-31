@@ -1,7 +1,7 @@
 # Hi, I'm Brenda 👩🏾‍💻
 
 
-<img src="https://github.com/brendaoby/brendaoby/blob/main/8-drMtsbXYn6Q1TGY.png" alt="banner that says Brenda Ekemezie - machine learning engineerand data scientist alongside a cartoon illustration">
+<img src="https://github.com/brendaoby/brendaoby/blob/main/Github_banner.png" alt="banner that says Brenda Ekemezie - machine learning engineer and data scientist alongside a cartoon illustration">
 
 I’m looking to collaborate on impactful projects that levarage data-driven insights to solve complex problems.
 
