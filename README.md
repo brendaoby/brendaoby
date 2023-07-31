@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @brendaoby
-- 👀 I’m interested in software engineering and machine learning
-- 🌱 I’m currently learning HTML/CSS, C Programming, Python
-- 💞️ I’m looking to collaborate on impactful projects
-- 📫 How to reach me brendaekemezie@gmail.com
+# Hi, I'm Brenda 👩🏾‍💻
 
-<!---
-brendaoby/brendaoby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m looking to collaborate on impactful projects that levarage data-driven insights to solve complex problems.
+
+## Find me around the web 🌎:
+- Reach me via <a href="brendaekemezie@gmail.com">Email</a> 📫
+- Sharing updates on <a href="https://www.linkedin.com/in/brenda-ekemezie-37564318b/">LinkedIn</a> 💼
